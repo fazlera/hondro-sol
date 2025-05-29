@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hondro-sol-silk.vercel.app/sitemap.xml
